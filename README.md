@@ -47,7 +47,7 @@ A Unity challenge that consisted in modding scene with a cube on it, and then bu
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Change position on page reload;\
+:heavy_check_mark: Change position (on X, Y and Z axis) on page reload;\
 :heavy_check_mark: change colors randomly over time;\
 :heavy_check_mark: Change rotation speed (on X, Y and Z axis) on page reload;
 
