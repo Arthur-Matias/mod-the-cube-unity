@@ -43,7 +43,7 @@
 
 ## :dart: About ##
 
-A Unity challenge that consisted in modding scene with a cube on it.
+A Unity challenge that consisted in modding scene with a cube on it, and then building it for the web with OpenGL.
 
 ## :sparkles: Features ##
 
