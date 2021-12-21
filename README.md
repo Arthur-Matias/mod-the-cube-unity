@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./assets/Cube.png" alt="Mod The Cube Unity" />
+  <img src="./assets/ModCube.png" alt="Mod The Cube Unity" />
 
   &#xa0;
 
